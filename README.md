@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Atharv Patil</h1>
-<h3 align="center">Btech in Computer Science and Engineering @ NIT Surat</h3>
+<h3 align="center">BTech in Computer Science and Engineering @ NIT Surat</h3>
 <img align = "right" alt = 'Coding' width = "400" src = "https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 🔭 I’m currently working on my **Data Structure and Algorithms** skills.
 
 - 🌱 I’m currently learning **Spring Boot!**
+
+- 🔗 Check out my [portfolio](https://atharvp18.github.io/Portfolio/) website. 
 
 - 📫 Reach me at: **atharv.patil1801@gmail.com**
 
