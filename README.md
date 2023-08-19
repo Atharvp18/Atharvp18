@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv Patil</h1>
 <h3 align="center">BTech in Computer Science and Engineering @ NIT Surat</h3>
-<div align="right">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvp18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+ <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvp18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 - 🔭 I’m currently working on my **Data Structure and Algorithms** skills.
 
