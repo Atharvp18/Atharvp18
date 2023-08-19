@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Atharv Patil</h1>
-<h3 align="center">BTech in Computer Science and Engineering @ NIT Surat</h3>
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvp18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<h3 align="center">BTech in Computer Science and Engineering @ NIT Surat</h3><br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/atharv-patil-936466206/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="atharv.patil1801@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+</div><br>
+<img align="right" width="400" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvp18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
 
 - 🔭 I’m currently working on my **Data Structure and Algorithms** skills.
 
