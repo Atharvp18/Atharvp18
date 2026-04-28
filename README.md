@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/atharv-patil-936466206/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:atharv.patil1801@gmail.com">
+  <a href="mailto:atharvsa@usc.edu">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://atharvp18.github.io/Portfolio/">
