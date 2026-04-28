@@ -1,44 +1,45 @@
-<h1 align="center">Hi 👋, I'm Atharv Patil</h1>
-<h3 align="center">BTech in Computer Science and Engineering @ NIT Surat</h3><br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/atharv-patil-936466206/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href=mailto:"atharv.patil1801@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-</div><br>
-<img align="right" width="400" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvp18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+<h1 align="center">Hi, I'm Atharv Patil 👋</h1>
+<h3 align="center">Incoming MSCS Student @ USC | Ex-SDE II @ J.P. Morgan</h3>
 
-- 🔭 I’m currently working on my **Data Structure and Algorithms** skills.
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharv-patil-936466206/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:atharv.patil1801@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://atharvp18.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Spring Boot!**
+## About Me
+- Incoming **M.S. in Computer Science** student at the **University of Southern California** (Aug 2026).
+- Previously worked at **J.P. Morgan Chase & Co.** as a Software Development Engineer (SDE I/II).
+- Focused on building scalable backend systems with **Java, Spring Boot, AWS**, and **LLM/RAG** applications.
+- AWS Certified Developer - Associate (April 2026).
+- Outside coding: I enjoy cars and video games.
 
-- 🔗 Check out my [portfolio](https://atharvp18.github.io/Portfolio/) website. 
+## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,spring,mysql,mongodb,docker,aws,cpp" alt="Tech stack icons" />
+</p>
 
-- 📫 Reach me at: **atharv.patil1801@gmail.com**
+## AI / LLM
+<p>
+  <img src="https://img.shields.io/badge/LLM-Enabled-0A66C2?style=for-the-badge" alt="LLM badge" />
+  <img src="https://img.shields.io/badge/RAG-Building-1F8B4C?style=for-the-badge" alt="RAG badge" />
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI badge" />
+</p>
 
-- ⚡ Fun fact **I like cars and play video games!**
+## GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvp18&show_icons=true&theme=default&hide_border=true" alt="Atharv's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvp18&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="docker logo"  />
-</div>
+## Connect
+- LinkedIn: [atharv-patil-936466206](https://www.linkedin.com/in/atharv-patil-936466206/)
+- Email (USC): [atharvsa@usc.edu](mailto:atharvsa@usc.edu)
+- Email (Personal): [patilatharv1801@gmail.com](mailto:patilatharv1801@gmail.com)
+- Portfolio: [atharvp18.github.io/Portfolio](https://atharvp18.github.io/Portfolio/)
