@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Atharv Patil 👋</h1>
+<h1 align="center">Hi, I'm Atharv Sandeep Patil 👋</h1>
 <h3 align="center">Incoming MSCS Student @ USC | Ex-SDE II @ J.P. Morgan</h3>
 
 <p align="center">
