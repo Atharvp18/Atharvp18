@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Atharv Sandeep Patil 👋</h1>
-<h3 align="center">MSCS Student @ USC | Ex-SDE II @ J.P. Morgan</h3>
+<h3 align="center">MSCS @ USC | Ex-SDE II @ J.P. Morgan</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharv-patil-936466206/">
