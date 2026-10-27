@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Atharv Sandeep Patil 👋</h1>
-<h3 align="center">Incoming MSCS Student @ USC | Ex-SDE II @ J.P. Morgan</h3>
+<h3 align="center">MSCS Student @ USC | Ex-SDE II @ J.P. Morgan</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharv-patil-936466206/">
@@ -14,7 +14,7 @@
 </p>
 
 ## About Me
-- Incoming **M.S. in Computer Science** student at the **University of Southern California** (Aug 2026).
+- **M.S. in Computer Science** student at the **University of Southern California** (Aug 2026).
 - Previously worked at **J.P. Morgan Chase & Co.** as a Software Development Engineer II (SDE II).
 - Focused on building scalable backend systems with **Java, Spring Boot, AWS**, and **LLM/RAG** applications.
 - AWS Certified Developer - Associate (April 2026).
